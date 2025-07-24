@@ -1,0 +1,13 @@
+
+{
+  "name": "UltraTickets",
+  "version": "1.0.0",
+  "description": "Bot Discord de tickets ultra complet prêt à l'emploi.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
